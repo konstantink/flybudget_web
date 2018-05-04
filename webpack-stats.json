@@ -1,0 +1,1 @@
+{"status":"done","chunks":{"main":[{"name":"app.js","path":"/Users/user/git/flybudget_web/assets/js/app.js"}]},"error":"ModuleBuildError","message":"Module build failed: Error: ENOENT: no such file or directory, open '/Users/user/git/flybudget_web/node_modules/chartjs/chart.js'"}

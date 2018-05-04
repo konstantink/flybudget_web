@@ -1,0 +1,66 @@
+{
+  "name": "flybudget_web",
+  "version": "1.0.0",
+  "description": "Web interface for Flybudget",
+  "main": "app/index.js",
+  "author": "Konstantin Kolesnikov",
+  "license": "MIT",
+  "private": true,
+  "babel": {
+    "presets": [
+      "react",
+      "env",
+      "stage-2"
+    ]
+  },
+  "jest": {
+    "moduleDirectories": [
+      "node_modules",
+      "app"
+    ]
+  },
+  "scripts": {
+    "dev": "pm2 start app/index.js --watch --interpreter babel-node",
+    "webpack": "webpack -wd",
+    "start": "webpack-dev-server --hot",
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "babel-eslint": "^8.2.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.6.1",
+    "jest": "^22.1.4",
+    "react-test-renderer": "^16.2.0",
+    "redux-devtools": "^3.4.1",
+    "webpack-bundle-tracker": "^0.2.1",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "chart.js": "^2.7.2",
+    "jwt-decode": "^2.2.0",
+    "lodash.debounce": "^4.0.8",
+    "pm2": "^2.9.3",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "^4.8.0",
+    "redux": "^3.7.2",
+    "redux-api-middleware": "^2.2.0",
+    "redux-persist": "^5.9.1",
+    "redux-persist-transform-filter": "^0.0.16",
+    "webpack": "^3.10.0"
+  }
+}

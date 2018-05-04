@@ -1,0 +1,229 @@
+€‘]M.òÃ^ÓCV§6_R$<diagramfile version="1.0">
+ <author></author>
+ <revision>1</revision>
+ <createdDate></createdDate>
+ <lastUpdatedDate>Sun Feb 4 23:36:10 2018 GMT</lastUpdatedDate>
+ <diagramCount>1</diagramCount>
+ <nextDiagramId>1</nextDiagramId>
+ <diagrams>
+  <diagram>
+   <property type="QString" name="objectName">AAAACgD/////</property>
+   <property type="QBrush" name="backgroundBrush">AAAAQgAAAf//AAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+   <property type="QBrush" name="foregroundBrush">AAAAQgAAAf//AAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+   <property type="QRectF" name="sceneRect">AAAAFADAngAAAAAAAMCSZAAAAAAAQK4AAAAAAABAomQAAAAAAA==</property>
+   <property type="QFont" name="font">AAAAQAAAAAAKAEEAcgBpAGEAbP////9AKgAAAAAAAP////8FAAEAMhAAAAEAAAAAAAAAAAAA</property>
+   <property type="bool" name="sortCacheEnabled">AAAAAQAA</property>
+   <property type="bool" name="stickyFocus">AAAAAQAA</property>
+   <property type="double" name="minimumRenderSize">AAAABgAAAAAAAAAAAA==</property>
+   <property type="int" name="id">AAAAAgAAAAAA</property>
+   <property type="QString" name="title">AAAACgAAAAASAFMAaABlAGUAdAAgACgAMAAp</property>
+   <property type="QBrush" name="background">AAAAQgABAf//////////AAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+   <property type="QImage" name="backgroundTexture">AAAARgAAAAAA</property>
+   <items>
+    <item type="1" libCategory="mockup" category="mockup" name="Line (Horizontal)" id="6" libName="Line (Horizontal)">
+     <property type="QString" name="objectName">AAAACgD/////</property>
+     <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+     <property type="bool" name="enabled">AAAAAQAB</property>
+     <property type="bool" name="visible">AAAAAQAB</property>
+     <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+     <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+     <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QFont" name="font">AAAAQAAAAAAKAEEAcgBpAGEAbP////9AKgAAAAAAAP////8FAAEAMhAAAAEAAAAAAAAAAAAA</property>
+     <property type="Qt::LayoutDirection" name="layoutDirection">AAAAAgAAAAAA</property>
+     <property type="QSizeF" name="minimumSize">AAAAFgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QSizeF" name="preferredSize">AAAAFgBASQAAAAAAAEBJAAAAAAAA</property>
+     <property type="QSizeF" name="maximumSize">AAAAFgBBb///4AAAAEFv///gAAAA</property>
+     <property type="QSizePolicy" name="sizePolicy">AAAAeQAAAAAF</property>
+     <property type="Qt::FocusPolicy" name="focusPolicy">AAAAAgAAAAAA</property>
+     <property type="Qt::WindowFlags" name="windowFlags">AAAAAgAAAAAA</property>
+     <property type="QString" name="windowTitle">AAAACgD/////</property>
+     <property type="QRectF" name="geometry">AAAAFABAgIQAAAAAAcBgIAAAAAAAQJdsAAAAAAFAKAAAAAAAAA==</property>
+     <property type="bool" name="autoFillBackground">AAAAAQAA</property>
+     <property type="bool" name="resizable">AAAAAQAB</property>
+     <property type="bool" name="rotatable">AAAAAQAA</property>
+     <property type="bool" name="keepSizeRatio">AAAAAQAA</property>
+     <property type="bool" name="lockPosition">AAAAAQAA</property>
+     <property type="QPen" name="pen">AAAATAAAUQA/8AAAAAAAAAEB//8AAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QPen" name="stroke">AAAATAAAUQBAIAAAAAAAAAEBMDAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QBrush" name="brush">AAAAQgABAf//////////AAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+     <property type="QFont" name="font">AAAAQAAAAAAaAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFP/////QCgAAAAAAAD/////BQABADIQAAABAAAAAAAAAAAAAA==</property>
+     <property type="bool" name="effectEnabled">AAAAAQAA</property>
+     <property type="QString" name="text">AAAACgAAAAAA</property>
+     <property type="QColor" name="textColor">AAAAQwAB//8AAAAAAAAAAA==</property>
+     <property type="int" name="textAlign">AAAAAgAAAAAE</property>
+     <property type="int" name="stackOrder">AAAAAgAAAAAC</property>
+     <property type="int" name="coordinationMode">AAAAAgAAAAAB</property>
+     <property type="int" name="labelPosition">AAAAAgAAAAAA</property>
+     <property type="bool" name="connectable">AAAAAQAA</property>
+     <property type="QString" name="content">AAAACgD/////</property>
+     <property type="int" name="selectedIndex">AAAAAgAAAAAB</property>
+     <property type="QIcon" name="icon">AAAARQD/////</property>
+     <property type="QString" name="iconName">AAAACgD/////</property>
+     <property type="QPixmap" name="pixmap">AAAAQQAAAAAA</property>
+     <children>
+      <child category="Core" name="Text" dynamicProperty="m_label">
+       <property type="QString" name="objectName">AAAACgD/////</property>
+       <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+       <property type="bool" name="enabled">AAAAAQAB</property>
+       <property type="bool" name="visible">AAAAAQAA</property>
+       <property type="QPointF" name="pos">AAAAGgDAh0QAAAAAAcAwAAAAAAAA</property>
+       <property type="double" name="x">AAAABgDAh0QAAAAAAQ==</property>
+       <property type="double" name="y">AAAABgDAMAAAAAAAAA==</property>
+       <property type="double" name="z">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+       <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+       <property type="double" name="width">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="height">AAAABgAAAAAAAAAAAA==</property>
+       <property type="bool" name="readOnly">AAAAAQAA</property>
+       <property type="bool" name="autoWidth">AAAAAQAB</property>
+       <property type="bool" name="lineEditMode">AAAAAQAA</property>
+       <property type="int" name="tabStopWidth">AAAAAgAAAAAE</property>
+       <property type="QBrush" name="background">AAAAQgABAQAAAAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+       <property type="QString" name="text">AAAACgAAAARqADwAIQBEAE8AQwBUAFkAUABFACAASABUAE0ATAAgAFAAVQBCAEwASQBDACAAIgAtAC8ALwBXADMAQwAvAC8ARABUAEQAIABIAFQATQBMACAANAAuADAALwAvAEUATgAiACAAIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwBUAFIALwBSAEUAQwAtAGgAdABtAGwANAAwAC8AcwB0AHIAaQBjAHQALgBkAHQAZAAiAD4ACgA8AGgAdABtAGwAPgA8AGgAZQBhAGQAPgA8AG0AZQB0AGEAIABuAGEAbQBlAD0AIgBxAHIAaQBjAGgAdABlAHgAdAAiACAAYwBvAG4AdABlAG4AdAA9ACIAMQAiACAALwA+ADwAbQBlAHQAYQAgAGgAdAB0AHAALQBlAHEAdQBpAHYAPQAiAEMAbwBuAHQAZQBuAHQALQBUAHkAcABlACIAIABjAG8AbgB0AGUAbgB0AD0AIgB0AGUAeAB0AC8AaAB0AG0AbAA7ACAAYwBoAGEAcgBzAGUAdAA9AHUAdABmAC0AOAAiACAALwA+ADwAcwB0AHkAbABlACAAdAB5AHAAZQA9ACIAdABlAHgAdAAvAGMAcwBzACIAPgAKAHAALAAgAGwAaQAgAHsAIAB3AGgAaQB0AGUALQBzAHAAYQBjAGUAOgAgAHAAcgBlAC0AdwByAGEAcAA7ACAAfQAKADwALwBzAHQAeQBsAGUAPgA8AC8AaABlAGEAZAA+ADwAYgBvAGQAeQAgAHMAdAB5AGwAZQA9ACIAIABmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAnAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFMAJwA7ACAAZgBvAG4AdAAtAHMAaQB6AGUAOgAxADIAcAB0ADsAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgA0ADAAMAA7ACAAZgBvAG4AdAAtAHMAdAB5AGwAZQA6AG4AbwByAG0AYQBsADsAIgA+AAoAPABwACAAYQBsAGkAZwBuAD0AIgBjAGUAbgB0AGUAcgAiACAAcwB0AHkAbABlAD0AIgAtAHEAdAAtAHAAYQByAGEAZwByAGEAcABoAC0AdAB5AHAAZQA6AGUAbQBwAHQAeQA7ACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAGIAbwB0AHQAbwBtADoAMABwAHgAOwAgAG0AYQByAGcAaQBuAC0AbABlAGYAdAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAHIAaQBnAGgAdAA6ADAAcAB4ADsAIAAtAHEAdAAtAGIAbABvAGMAawAtAGkAbgBkAGUAbgB0ADoAMAA7ACAAdABlAHgAdAAtAGkAbgBkAGUAbgB0ADoAMABwAHgAOwAiAD4APABiAHIAIAAvAD4APAAvAHAAPgA8AC8AYgBvAGQAeQA+ADwALwBoAHQAbQBsAD4=</property>
+      </child>
+     </children>
+     <ext>
+      <hotspots/>
+     </ext>
+    </item>
+    <item type="1" libCategory="mockup" category="mockup" name="Browser" id="0" libName="Browser">
+     <property type="QString" name="objectName">AAAACgD/////</property>
+     <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+     <property type="bool" name="enabled">AAAAAQAB</property>
+     <property type="bool" name="visible">AAAAAQAB</property>
+     <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+     <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+     <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QFont" name="font">AAAAQAAAAAAKAEEAcgBpAGEAbP////9AKgAAAAAAAP////8FAAEAMhAAAAEAAAAAAAAAAAAA</property>
+     <property type="Qt::LayoutDirection" name="layoutDirection">AAAAAgAAAAAA</property>
+     <property type="QSizeF" name="minimumSize">AAAAFgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QSizeF" name="preferredSize">AAAAFgBASQAAAAAAAEBJAAAAAAAA</property>
+     <property type="QSizeF" name="maximumSize">AAAAFgBBb///4AAAAEFv///gAAAA</property>
+     <property type="QSizePolicy" name="sizePolicy">AAAAeQAAAABV</property>
+     <property type="Qt::FocusPolicy" name="focusPolicy">AAAAAgAAAAAA</property>
+     <property type="Qt::WindowFlags" name="windowFlags">AAAAAgAAAAAA</property>
+     <property type="QString" name="windowTitle">AAAACgD/////</property>
+     <property type="QRectF" name="geometry">AAAAFABAgIQAAAAAAEBs3//////+QJdsAAAAAABAjsAAAAAAAQ==</property>
+     <property type="bool" name="autoFillBackground">AAAAAQAA</property>
+     <property type="bool" name="resizable">AAAAAQAB</property>
+     <property type="bool" name="rotatable">AAAAAQAA</property>
+     <property type="bool" name="keepSizeRatio">AAAAAQAA</property>
+     <property type="bool" name="lockPosition">AAAAAQAA</property>
+     <property type="QPen" name="pen">AAAATAAAUQA/8AAAAAAAAAEB//8AAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QPen" name="stroke">AAAATAAAUQBAIAAAAAAAAAEBMDAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QBrush" name="brush">AAAAQgABAf//////////AAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+     <property type="QFont" name="font">AAAAQAAAAAAaAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFP/////QCgAAAAAAAD/////BQABADIQAAABAAAAAAAAAAAAAA==</property>
+     <property type="bool" name="effectEnabled">AAAAAQAA</property>
+     <property type="QString" name="text">AAAACgAAAAAA</property>
+     <property type="QColor" name="textColor">AAAAQwAB//8AAAAAAAAAAA==</property>
+     <property type="int" name="textAlign">AAAAAgAAAAAE</property>
+     <property type="int" name="stackOrder">AAAAAgAAAAAA</property>
+     <property type="int" name="coordinationMode">AAAAAgAAAAAB</property>
+     <property type="int" name="labelPosition">AAAAAgAAAAAA</property>
+     <property type="bool" name="connectable">AAAAAQAA</property>
+     <property type="QString" name="content">AAAACgAAAAPsADwAIQBEAE8AQwBUAFkAUABFACAASABUAE0ATAAgAFAAVQBCAEwASQBDACAAIgAtAC8ALwBXADMAQwAvAC8ARABUAEQAIABIAFQATQBMACAANAAuADAALwAvAEUATgAiACAAIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwBUAFIALwBSAEUAQwAtAGgAdABtAGwANAAwAC8AcwB0AHIAaQBjAHQALgBkAHQAZAAiAD4ACgA8AGgAdABtAGwAPgA8AGgAZQBhAGQAPgA8AG0AZQB0AGEAIABuAGEAbQBlAD0AIgBxAHIAaQBjAGgAdABlAHgAdAAiACAAYwBvAG4AdABlAG4AdAA9ACIAMQAiACAALwA+ADwAcwB0AHkAbABlACAAdAB5AHAAZQA9ACIAdABlAHgAdAAvAGMAcwBzACIAPgAKAHAALAAgAGwAaQAgAHsAIAB3AGgAaQB0AGUALQBzAHAAYQBjAGUAOgAgAHAAcgBlAC0AdwByAGEAcAA7ACAAfQAKADwALwBzAHQAeQBsAGUAPgA8AC8AaABlAGEAZAA+ADwAYgBvAGQAeQAgAHMAdAB5AGwAZQA9ACIAIABmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAnAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFMAJwA7ACAAZgBvAG4AdAAtAHMAaQB6AGUAOgAxADYAcAB0ADsAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgA0ADAAMAA7ACAAZgBvAG4AdAAtAHMAdAB5AGwAZQA6AG4AbwByAG0AYQBsADsAIgA+AAoAPABwACAAcwB0AHkAbABlAD0AIgAgAG0AYQByAGcAaQBuAC0AdABvAHAAOgAwAHAAeAA7ACAAbQBhAHIAZwBpAG4ALQBiAG8AdAB0AG8AbQA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAGwAZQBmAHQAOgAwAHAAeAA7ACAAbQBhAHIAZwBpAG4ALQByAGkAZwBoAHQAOgAwAHAAeAA7ACAALQBxAHQALQBiAGwAbwBjAGsALQBpAG4AZABlAG4AdAA6ADAAOwAgAHQAZQB4AHQALQBpAG4AZABlAG4AdAA6ADAAcAB4ADsAIgA+AEUAYQBzAHkAIABiAHUAZABnAGUAdAAgAG0AYQBuAGEAZwBlAG0AZQBuAHQAPABiAHIAIAAvAD4AaAB0AHQAcAA6AC8ALwB3AHcAdwAuAGYAbAB5AGIAdQBkAGcAZQB0AC4AYwBvAG0APAAvAHAAPgA8AC8AYgBvAGQAeQA+ADwALwBoAHQAbQBsAD4=</property>
+     <property type="int" name="selectedIndex">AAAAAgBH7uAD</property>
+     <property type="QIcon" name="icon">AAAARQD/////</property>
+     <property type="QString" name="iconName">AAAACgD/////</property>
+     <property type="QPixmap" name="pixmap">AAAAQQAAAAAA</property>
+     <property type="int" name="textAlignSupported">AAAAAgAAAAAE</property>
+     <property type="bool" name="noBackground">AAAAAQAB</property>
+     <children>
+      <child category="Core" name="Text" dynamicProperty="m_label">
+       <property type="QString" name="objectName">AAAACgD/////</property>
+       <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+       <property type="bool" name="enabled">AAAAAQAB</property>
+       <property type="bool" name="visible">AAAAAQAA</property>
+       <property type="QPointF" name="pos">AAAAGgDAh0QAAAAAAMAwAAAAAAAA</property>
+       <property type="double" name="x">AAAABgDAh0QAAAAAAA==</property>
+       <property type="double" name="y">AAAABgDAMAAAAAAAAA==</property>
+       <property type="double" name="z">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+       <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+       <property type="double" name="width">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="height">AAAABgAAAAAAAAAAAA==</property>
+       <property type="bool" name="readOnly">AAAAAQAA</property>
+       <property type="bool" name="autoWidth">AAAAAQAB</property>
+       <property type="bool" name="lineEditMode">AAAAAQAA</property>
+       <property type="int" name="tabStopWidth">AAAAAgAAAAAE</property>
+       <property type="QBrush" name="background">AAAAQgABAQAAAAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+       <property type="QString" name="text">AAAACgAAAARqADwAIQBEAE8AQwBUAFkAUABFACAASABUAE0ATAAgAFAAVQBCAEwASQBDACAAIgAtAC8ALwBXADMAQwAvAC8ARABUAEQAIABIAFQATQBMACAANAAuADAALwAvAEUATgAiACAAIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwBUAFIALwBSAEUAQwAtAGgAdABtAGwANAAwAC8AcwB0AHIAaQBjAHQALgBkAHQAZAAiAD4ACgA8AGgAdABtAGwAPgA8AGgAZQBhAGQAPgA8AG0AZQB0AGEAIABuAGEAbQBlAD0AIgBxAHIAaQBjAGgAdABlAHgAdAAiACAAYwBvAG4AdABlAG4AdAA9ACIAMQAiACAALwA+ADwAbQBlAHQAYQAgAGgAdAB0AHAALQBlAHEAdQBpAHYAPQAiAEMAbwBuAHQAZQBuAHQALQBUAHkAcABlACIAIABjAG8AbgB0AGUAbgB0AD0AIgB0AGUAeAB0AC8AaAB0AG0AbAA7ACAAYwBoAGEAcgBzAGUAdAA9AHUAdABmAC0AOAAiACAALwA+ADwAcwB0AHkAbABlACAAdAB5AHAAZQA9ACIAdABlAHgAdAAvAGMAcwBzACIAPgAKAHAALAAgAGwAaQAgAHsAIAB3AGgAaQB0AGUALQBzAHAAYQBjAGUAOgAgAHAAcgBlAC0AdwByAGEAcAA7ACAAfQAKADwALwBzAHQAeQBsAGUAPgA8AC8AaABlAGEAZAA+ADwAYgBvAGQAeQAgAHMAdAB5AGwAZQA9ACIAIABmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAnAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFMAJwA7ACAAZgBvAG4AdAAtAHMAaQB6AGUAOgAxADIAcAB0ADsAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgA0ADAAMAA7ACAAZgBvAG4AdAAtAHMAdAB5AGwAZQA6AG4AbwByAG0AYQBsADsAIgA+AAoAPABwACAAYQBsAGkAZwBuAD0AIgBjAGUAbgB0AGUAcgAiACAAcwB0AHkAbABlAD0AIgAtAHEAdAAtAHAAYQByAGEAZwByAGEAcABoAC0AdAB5AHAAZQA6AGUAbQBwAHQAeQA7ACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAGIAbwB0AHQAbwBtADoAMABwAHgAOwAgAG0AYQByAGcAaQBuAC0AbABlAGYAdAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAHIAaQBnAGgAdAA6ADAAcAB4ADsAIAAtAHEAdAAtAGIAbABvAGMAawAtAGkAbgBkAGUAbgB0ADoAMAA7ACAAdABlAHgAdAAtAGkAbgBkAGUAbgB0ADoAMABwAHgAOwAiAD4APABiAHIAIAAvAD4APAAvAHAAPgA8AC8AYgBvAGQAeQA+ADwALwBoAHQAbQBsAD4=</property>
+      </child>
+     </children>
+     <ext>
+      <hotspots/>
+     </ext>
+    </item>
+    <item type="1" libCategory="mockup" category="mockup" name="Line (Vertical)" id="5" libName="Line (Vertical)">
+     <property type="QString" name="objectName">AAAACgD/////</property>
+     <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+     <property type="bool" name="enabled">AAAAAQAB</property>
+     <property type="bool" name="visible">AAAAAQAB</property>
+     <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+     <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+     <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QFont" name="font">AAAAQAAAAAAKAEEAcgBpAGEAbP////9AKgAAAAAAAP////8FAAEAMhAAAAEAAAAAAAAAAAAA</property>
+     <property type="Qt::LayoutDirection" name="layoutDirection">AAAAAgAAAAAA</property>
+     <property type="QSizeF" name="minimumSize">AAAAFgAAAAAAAAAAAAAAAAAAAAAA</property>
+     <property type="QSizeF" name="preferredSize">AAAAFgBASQAAAAAAAEBJAAAAAAAA</property>
+     <property type="QSizeF" name="maximumSize">AAAAFgBBb///4AAAAEFv///gAAAA</property>
+     <property type="QSizePolicy" name="sizePolicy">AAAAeQAAAABQ</property>
+     <property type="Qt::FocusPolicy" name="focusPolicy">AAAAAgAAAAAA</property>
+     <property type="Qt::WindowFlags" name="windowFlags">AAAAAgAAAAAA</property>
+     <property type="QString" name="windowTitle">AAAACgD/////</property>
+     <property type="QRectF" name="geometry">AAAAFABAVAAAAAAAAEBymAAAAAAAQDUAAAAAAABAipgAAAAAAA==</property>
+     <property type="bool" name="autoFillBackground">AAAAAQAA</property>
+     <property type="bool" name="resizable">AAAAAQAB</property>
+     <property type="bool" name="rotatable">AAAAAQAA</property>
+     <property type="bool" name="keepSizeRatio">AAAAAQAA</property>
+     <property type="bool" name="lockPosition">AAAAAQAA</property>
+     <property type="QPen" name="pen">AAAATAAAUQA/8AAAAAAAAAEB//8AAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QPen" name="stroke">AAAATAAAUQBAIAAAAAAAAAEBMDAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/8AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</property>
+     <property type="QBrush" name="brush">AAAAQgABAf//////////AAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+     <property type="QFont" name="font">AAAAQAAAAAAaAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFP/////QCgAAAAAAAD/////BQABADIQAAABAAAAAAAAAAAAAA==</property>
+     <property type="bool" name="effectEnabled">AAAAAQAA</property>
+     <property type="QString" name="text">AAAACgAAAAAA</property>
+     <property type="QColor" name="textColor">AAAAQwAB//8AAAAAAAAAAA==</property>
+     <property type="int" name="textAlign">AAAAAgAAAAAE</property>
+     <property type="int" name="stackOrder">AAAAAgAAAAAB</property>
+     <property type="int" name="coordinationMode">AAAAAgAAAAAB</property>
+     <property type="int" name="labelPosition">AAAAAgAAAAAA</property>
+     <property type="bool" name="connectable">AAAAAQAA</property>
+     <property type="QString" name="content">AAAACgD/////</property>
+     <property type="int" name="selectedIndex">AAAAAgAAAAAA</property>
+     <property type="QIcon" name="icon">AAAARQD/////</property>
+     <property type="QString" name="iconName">AAAACgD/////</property>
+     <property type="QPixmap" name="pixmap">AAAAQQAAAAAA</property>
+     <children>
+      <child category="Core" name="Text" dynamicProperty="m_label">
+       <property type="QString" name="objectName">AAAACgD/////</property>
+       <property type="double" name="opacity">AAAABgA/8AAAAAAAAA==</property>
+       <property type="bool" name="enabled">AAAAAQAB</property>
+       <property type="bool" name="visible">AAAAAQAA</property>
+       <property type="QPointF" name="pos">AAAAGgDAFgAAAAAAAMAwAAAAAAAA</property>
+       <property type="double" name="x">AAAABgDAFgAAAAAAAA==</property>
+       <property type="double" name="y">AAAABgDAMAAAAAAAAA==</property>
+       <property type="double" name="z">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="rotation">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="scale">AAAABgA/8AAAAAAAAA==</property>
+       <property type="QPointF" name="transformOriginPoint">AAAAGgAAAAAAAAAAAAAAAAAAAAAA</property>
+       <property type="double" name="width">AAAABgAAAAAAAAAAAA==</property>
+       <property type="double" name="height">AAAABgAAAAAAAAAAAA==</property>
+       <property type="bool" name="readOnly">AAAAAQAA</property>
+       <property type="bool" name="autoWidth">AAAAAQAB</property>
+       <property type="bool" name="lineEditMode">AAAAAQAA</property>
+       <property type="int" name="tabStopWidth">AAAAAgAAAAAE</property>
+       <property type="QBrush" name="background">AAAAQgABAQAAAAAAAAAAAAA/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/AAAAAAAAA=</property>
+       <property type="QString" name="text">AAAACgAAAARqADwAIQBEAE8AQwBUAFkAUABFACAASABUAE0ATAAgAFAAVQBCAEwASQBDACAAIgAtAC8ALwBXADMAQwAvAC8ARABUAEQAIABIAFQATQBMACAANAAuADAALwAvAEUATgAiACAAIgBoAHQAdABwADoALwAvAHcAdwB3AC4AdwAzAC4AbwByAGcALwBUAFIALwBSAEUAQwAtAGgAdABtAGwANAAwAC8AcwB0AHIAaQBjAHQALgBkAHQAZAAiAD4ACgA8AGgAdABtAGwAPgA8AGgAZQBhAGQAPgA8AG0AZQB0AGEAIABuAGEAbQBlAD0AIgBxAHIAaQBjAGgAdABlAHgAdAAiACAAYwBvAG4AdABlAG4AdAA9ACIAMQAiACAALwA+ADwAbQBlAHQAYQAgAGgAdAB0AHAALQBlAHEAdQBpAHYAPQAiAEMAbwBuAHQAZQBuAHQALQBUAHkAcABlACIAIABjAG8AbgB0AGUAbgB0AD0AIgB0AGUAeAB0AC8AaAB0AG0AbAA7ACAAYwBoAGEAcgBzAGUAdAA9AHUAdABmAC0AOAAiACAALwA+ADwAcwB0AHkAbABlACAAdAB5AHAAZQA9ACIAdABlAHgAdAAvAGMAcwBzACIAPgAKAHAALAAgAGwAaQAgAHsAIAB3AGgAaQB0AGUALQBzAHAAYQBjAGUAOgAgAHAAcgBlAC0AdwByAGEAcAA7ACAAfQAKADwALwBzAHQAeQBsAGUAPgA8AC8AaABlAGEAZAA+ADwAYgBvAGQAeQAgAHMAdAB5AGwAZQA9ACIAIABmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAnAEMAbwBtAGkAYwAgAFMAYQBuAHMAIABNAFMAJwA7ACAAZgBvAG4AdAAtAHMAaQB6AGUAOgAxADIAcAB0ADsAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgA0ADAAMAA7ACAAZgBvAG4AdAAtAHMAdAB5AGwAZQA6AG4AbwByAG0AYQBsADsAIgA+AAoAPABwACAAYQBsAGkAZwBuAD0AIgBjAGUAbgB0AGUAcgAiACAAcwB0AHkAbABlAD0AIgAtAHEAdAAtAHAAYQByAGEAZwByAGEAcABoAC0AdAB5AHAAZQA6AGUAbQBwAHQAeQA7ACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAGIAbwB0AHQAbwBtADoAMABwAHgAOwAgAG0AYQByAGcAaQBuAC0AbABlAGYAdAA6ADAAcAB4ADsAIABtAGEAcgBnAGkAbgAtAHIAaQBnAGgAdAA6ADAAcAB4ADsAIAAtAHEAdAAtAGIAbABvAGMAawAtAGkAbgBkAGUAbgB0ADoAMAA7ACAAdABlAHgAdAAtAGkAbgBkAGUAbgB0ADoAMABwAHgAOwAiAD4APABiAHIAIAAvAD4APAAvAHAAPgA8AC8AYgBvAGQAeQA+ADwALwBoAHQAbQBsAD4=</property>
+      </child>
+     </children>
+     <ext>
+      <hotspots/>
+     </ext>
+    </item>
+   </items>
+  </diagram>
+ </diagrams>
+</diagramfile>
