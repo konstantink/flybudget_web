@@ -299,20 +299,41 @@ a:hover {
 }
 
 /* DivTable.com */
+.table-wrap {
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+}
+
 .table{
-	display: table;
+	display: block;
+  height: 100%;
+  overflow-y: scroll;
 	width: 100%;
 }
 .table-row {
-	display: table-row;
+  border-bottom: 1px solid #999999;
+	display: flex;
+  width: 100%;
 }
+
+.table-sticky-row {
+  background-color: #EEE;
+  border: 0;
+  /* border: 1px solid #999999; */
+  padding: 10px 10px;
+}
+
+.table div div:last-of-type.table-row {
+  border-bottom: 0;
+}
+
 .divTableHeading {
 	background-color: #EEE;
 	display: table-header-group;
 }
 .table-cell, .divTableHead {
-	border-bottom: 1px solid #999999;
-	display: table-cell;
+	/* border-bottom: 1px solid #999999; */
 	padding: 5px 10px;
 }
 .divTableHeading {
@@ -335,6 +356,19 @@ a:hover {
 
 .cell-total {
   text-align: right;
+  width: 15%;
+}
+
+.cell-date {
+  width: 15%;
+}
+
+.cell-item {
+  width: 45%;
+}
+
+.cell-category {
+  width: 25%;
 }
 
 .sidebar-sticky {

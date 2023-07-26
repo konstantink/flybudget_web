@@ -53,11 +53,17 @@ class App extends React.Component {
       // <LoginForm />
       <div>
         <Navbar />
-        <Sidebar />
-        <main role="main" className="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
-          <DashboardChart stats={this.props.stats} />
-          <RecordList expenses={this.props.expenses} />
-        </main>
+        <div className="container-fluid">
+          <div className="row">
+            <Sidebar />
+            <main role="main" className="col-md-9 ml-sm-auto col-lg-10 pt-3 px-4">
+              <DashboardChart stats={this.props.stats} />
+              <div className="container-fluid">
+                <RecordList expenses={this.props.expenses} />
+              </div>
+            </main>
+          </div>
+        </div>
       </div>
     );
   }
